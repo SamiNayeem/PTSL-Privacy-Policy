@@ -59,7 +59,7 @@ const PrivacyPolicy = () => {
         </ul>
         <p>If you wish to exercise any of these rights, please contact us using the information provided below.</p>
 
-        <h2 className="text-xl font-semibold text-gray-800 mb-2">7. Children's Privacy</h2>
+        <h2 className="text-xl font-semibold text-gray-800 mb-2">7. Children&apos;s Privacy</h2>
         <p className="text-gray-700 mb-4">
           The app is intended for use by employees of Prime Tech Solutions Ltd. and is not directed at children under 13 years of age. We do not knowingly collect personal information from children. If we become aware that we have inadvertently collected personal data from a child under 13, we will take steps to delete that information.
         </p>
